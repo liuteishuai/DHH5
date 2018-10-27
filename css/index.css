@@ -241,7 +241,6 @@ html, body {
     top: 4rem;
     width: 1.9rem;
     height: .34rem;
-    background: url("../img/known-more.png") no-repeat;
     background-size: 100% 100%;
     opacity: 0;
 }
@@ -259,7 +258,6 @@ html, body {
     top: .6rem;
     width: 3rem;
     height: 4rem;
-    background: url("../img/bg3.png") no-repeat;
     background-size: 100% 100%;
     opacity: 0;
 }
@@ -295,7 +293,7 @@ html, body {
     right: .08rem;
     width: 1.2rem;
     height: 1.2rem;
-    background: url("../img/cmy1.jpg")no-repeat;
+    background: url("../img/resume.png")no-repeat;
     background-size: 100% 100%;
     border-radius: 50%;
     box-shadow:  -.01rem .01rem .1rem .01rem #c4c1a2;
